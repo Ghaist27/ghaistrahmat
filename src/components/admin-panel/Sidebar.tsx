@@ -46,7 +46,7 @@ const Sidebar = () => {
     <div className="bg-white w-[300px] min-h-screen p-4 shrink-0">
       <div className="flex items-center gap-4">
         
-        <h2 className="text-[20px] font-semibold">Store</h2>
+        <h2 className="text-[20px] font-semibold">Store Ghaist</h2>
       </div>
 
       <ul className="space-y-4 mt-6">
